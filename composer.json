@@ -19,14 +19,14 @@
   "authors": [
     {
       "name": "Wouaka Team",
-      "email": "support@wouaka.com",
-      "homepage": "https://wouaka.com"
+      "email": "contact@wouaka-creditscore.com",
+      "homepage": "https://wouaka-creditscore.com"
     }
   ],
   "support": {
-    "email": "support@wouaka.com",
-    "docs": "https://docs.wouaka.com",
-    "issues": "https://github.com/wouaka/wouaka-php-sdk/issues"
+    "email": "support@wouaka-creditscore.com",
+    "docs": "https://docs.wouaka-creditscore.com",
+    "issues": "https://github.com/fofanay/wouaka-php-sdk/issues"
   },
   "require": {
     "php": "^7.4 || ^8.0",
