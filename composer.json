@@ -25,7 +25,7 @@
   ],
   "support": {
     "email": "support@wouaka.com",
-    "docs": "https://wouaka.com/developers/documentation",
+    "docs": "https://docs.wouaka.com",
     "issues": "https://github.com/wouaka/wouaka-php-sdk/issues"
   },
   "require": {
