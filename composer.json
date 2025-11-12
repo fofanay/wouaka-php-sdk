@@ -1,5 +1,5 @@
 {
-  "name": "wouaka/sdk",
+  "name": "wouaka-php-sdk",
   "description": "SDK PHP officiel pour l'API Wouaka - Solutions de scoring crédit et vérification KYC pour l'Afrique de l'Ouest",
   "type": "library",
   "keywords": [
